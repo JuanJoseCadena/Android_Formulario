@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="Regbtntxt">Bienvenido a la plataforma, puede proceder con el registro</string>
+    <string name="btntxt">Registrarse</string>
+    <string name="form1">Nombre Completo</string>
+    <string name="form2">Correo electrónico</string>
+    <string name="form3">Número de teléfono</string>
+    <string name="form4">Fecha de nacimiento (dd/mm/aaaa)</string>
+    <string name="form5">Masculino</string>
+    <string name="form6">Femenino</string>
+    <string name="sexotxt">Sexo</string>
+    <string name="insbtn">Inscribirse</string>
+    <string name="formact">Formulario de Inscripción</string>
+    <string name="closebtn">Cerrar</string>
+    <string name="finaltxt">Se hizo el registro correctamente</string>
+
+</resources>
